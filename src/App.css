@@ -225,17 +225,25 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon{
 .banner {
   margin-top: 0;
   padding: 260px 0 100px 0;
-  background-image: url('./assets/img/banner-bg.png');
+  background-color: #140225;
+  overflow: hidden;
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 30px;
+  background-image: url("./assets/img/banner-bg.png");
 }
+
+
+
+
 @keyframes changeColor {
   0% { color: white; }
   50% { color: #b3b1ab;} 
   100% { color: white; }
 }
+
+
 
 .banner .tagline {
   font-weight: 700;
@@ -257,6 +265,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon{
   display: block;
   color: #fff;
 }
+
 .banner p {
   color: #B8B8B8;
   font-size: 18px;
@@ -513,6 +522,19 @@ border-right: 0.08em solid #666;
   justify-content: center;
 }
 
+/*footer*/
+
+.footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-image: url('./assets/img/footer-bg.png');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.footer img {
+  width: 26%;
+}
 .tabcontent {
   justify-content: center;
 }

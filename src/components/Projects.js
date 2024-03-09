@@ -12,7 +12,7 @@ export const Projects = () => {
       title: "PlastEco",
       description: "Revolutionizing plastic waste management for a sustainable future",
       technologies: "PHP, MySql, HTML, CSS, Javascript, JQuery",
-      demoLink: "",
+      demoLink: "https://drive.google.com/file/d/1caFOMCRzWKiWc4joseHCuspbZTPteVaJ/view?usp=sharing",
       SourceLink: "https://github.com/scar-rs/Major-Project",
       imgUrl: projImg1, // Use projImg1 for the first major project
     },
@@ -20,16 +20,16 @@ export const Projects = () => {
       title: "Alarm Clock",
       description: "A simple alarm clock implementation",
       technologies: "Python,tkinter",
-      demoLink: "https://example.com/demo",
-      SourceLink: "https://github.com/example/business-startup",
+      demoLink: "https://drive.google.com/file/d/15iKrTJDgUExH0Cdqy_DkDTQZQPD9ehd8/view?usp=sharing",
+      SourceLink: "https://github.com/scar-rs/python-mini-project-alarm-clock-",
       imgUrl: projImg2,
     },
     {
       title: "Figma Design",
       description: "Website in figma for food wastage management system",
       technologies: "Figma",
-      demoLink: "https://www.figma.com/",
-      SourceLink: "",
+      demoLink: "https://www.figma.com/proto/mZK8PewCtiYWlCCcJFG1zm/fend-hkthon?node-id=3-47&mode=design&t=IGVd22aeXFFJ4DHY-1",
+      SourceLink: "https://github.com/scar-rs/figma-design-coding-",
       imgUrl: projImg3,
     }
   ];
