@@ -1,8 +1,8 @@
 {
   "name": "sakshis-portfolio",
-  "homepage": "https://scar-rs.github.io/scar-rs.github.io",
+  "homepage": "https://scar-rs.github.io/welcome-to-my-portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
